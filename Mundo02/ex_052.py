@@ -12,3 +12,4 @@ if soma > 2:
     print('E por isso ele NÃO É PRIMO')
 elif soma == 2:
     print('E por isso ele É PRIMO')
+    
