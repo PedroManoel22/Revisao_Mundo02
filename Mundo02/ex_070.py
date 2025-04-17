@@ -1,8 +1,9 @@
 total = mais = menor = 0
 nome = str
-print('-=' * 10)
-print('LOJA DO PEDRÃO')
-print('-=' * 10)
+print('-=' * 30)
+print(f'{"":16}', end=' ')
+print('LOJÃO DO PEDRÃO')
+print('-=' * 30)
 while True:
     produto = str(input('Nome do produto: '))
     preco = float(input('Preço: '))
