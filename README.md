@@ -9,7 +9,7 @@
 + ___exerc_42:__ Refaça o _desafio 035_, acrescentando o recurso de mostrar que tipo de triângulo será formado: - _EQUILÁTERO_: todos os lados iguais, - _ISÓSCELES_: dois lados iguais, - _ESCALENO_: todos os lados diferentes;
 + ___exerc_43:__ Desenvolva uma lógica que leia o peso e a altura de uma pessoa, calcule seu _IMC_ e mostre seu status, de acordo com a tabela abaixo:
   
-| < 18.5 | >= 18.8 and <= 25 | >= 25 and <= 30 | >= 30 and <= 40 | > 40 |
+| < 18.5 | >= 18.5 and <= 24.9 | >= 25 and <= 29.9 | >= 30 and <= 40 | > 40 |
 |---|---|---|---|---|
 | Abaixo do peso | Peso ideal | Sobrepeso | Obesidade | Obesidade mórbida |
 + ___exerc_44:__ Elabore um programa que calcule o valor a ser pago por um produto, considerando o seu preço normal e condição de pagamento: - á vista dinheiro/cheque: 10% de desconto, - á vista no cartão: 5% de desconto, - em até 2x no cartão: preço normal, - 3x ou mais no cartão: 20% de juros;
