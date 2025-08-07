@@ -32,7 +32,7 @@
 + ___exerc_60:__ Faça um programa que leia um número qualquer e mostre o seu fatorial;
 + ___exerc_61:__ Refaça o _Desafio 051_, lendo o primeiro termo e a razão de uma PA, mostrando os 10 primeiros termos da progressão usando a estrutura while;
 + ___exerc_62:__ Melhore o _Desafio 061_, perguntando para o usuário se ele quer mostrar mais alguns termos.O programa encerra quando ele disser que quer mostre 0 termos;
-+ ___exerc_63:__ Escreva um programa que leia um _número_ n inteiro qualquer e moostre na tela os n primeiros elementos de uma sequência de Fibonacci;
++ ___exerc_63:__ Escreva um programa que leia um _número_ n inteiro qualquer e mostre na tela os n primeiros elementos de uma sequência de Fibonacci;
 + ___exerc_64:__ Crie um programa que leia vários números inteiros pelo teclado.O programa só vai parar quando o usuário digitar o valor _999_, que é a condição de parada.No final, mostre quantos números foram digitados e qual foi a soma entre eles (descosiderando o flag);
 + ___exerc_65:__ Crie um programa que leia vários números inteiros pelo teclado.No final da execução, mostre a média entre todos os valores e qual foi o maior e o menor valores lidos.O programa deve perguntar ao usuário se ele quer ou não continuar a digitar valores;
 + ___exerc_66:__ Crie um programa que leia vários números inteiros pelo teclado. O programa só vai parar quando o usuário digitar o valor _999_, que é a condição de parada.No final, mostre quantos números foram digitados e qual foi a soma entre eles (desconsiderando o flag);
